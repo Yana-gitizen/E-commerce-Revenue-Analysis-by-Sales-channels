@@ -24,6 +24,7 @@ Segmented campaigns (high-LTV users, repeat buyers)
 
 This channel is high-margin, low-risk scaling capital.
 
+
 Q2) Which channel is the most inefficient and needs correction?
 
  Answer: Paid Advertising
@@ -46,7 +47,8 @@ Shift budget to retargeting instead of cold ads
 
 Improve landing pages and creatives
 
-Which channel brings the best quality customers (conversion + value)?
+
+Q3) Which channel brings the best quality customers (conversion + value)?
 
 Answer: Referral Channel
 
@@ -69,6 +71,7 @@ Double-sided incentives
 Influencer-led referral loops
 
 This channel compounds naturally and reduces CAC over time
+
 
 Q4)Is social media worth continued investment?
 
@@ -95,6 +98,7 @@ Strategic positioning:
 Social = demand creation
 Email + Referral = demand monetization
 
+
 Q5) How should you rebalance your marketing budget?
 
 | Channel         | Current Role        | Strategic Action                     |
@@ -104,7 +108,8 @@ Q5) How should you rebalance your marketing budget?
 | Social Media    | Awareness & intent  | **Maintain / optimize**              |
 | Paid Ads        | Traffic source      | **Reduce spend, improve efficiency** |
 
-Q6: What are the key takeaways?
+
+Q6) What are the key takeaways?
 
 Answer: 
 -Growth will come from CAC reduction, not higher pricing
