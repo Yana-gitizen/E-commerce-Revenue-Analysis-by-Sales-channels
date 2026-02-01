@@ -1,3 +1,11 @@
+<img width="1267" height="519" alt="Image" src="https://github.com/user-attachments/assets/4b6f7461-6452-4a87-b6ae-0b19e1b1f4cd" />
+
+<img width="1277" height="532" alt="Image" src="https://github.com/user-attachments/assets/1f53d55b-4988-4f1e-87f1-68fc2f839903" />
+
+<img width="1276" height="528" alt="Image" src="https://github.com/user-attachments/assets/880d1e63-476d-4df3-9283-da985dc43abc" />
+
+<img width="1275" height="524" alt="Image" src="https://github.com/user-attachments/assets/ae9e226f-0d44-4c09-ad50-5b2f444c8da7" />
+
 Q1) Which acquisition channel should you scale aggressively? 
 
 Answer: Email Marketing (Top Priority) 
